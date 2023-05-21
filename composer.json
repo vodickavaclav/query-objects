@@ -1,0 +1,7 @@
+{
+    "require": {
+        "webmozart/assert": "^1.11",
+        "doctrine/mongodb-odm-bundle": "^4.5",
+        "doctrine/orm": "^2.15"
+    }
+}
